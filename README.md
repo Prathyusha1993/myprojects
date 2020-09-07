@@ -1,7 +1,9 @@
-# myprojects
+# My Projects
+
+These are some projects which I have done as part of my portfolio during my free time.
 
 
-## Portfolio
+## Portfolio App
 
 Demo - https://portfolio-html-site.vercel.app/index.html
 
