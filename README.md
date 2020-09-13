@@ -1,6 +1,6 @@
 # My Projects
 
-These are some projects which I have done as part of my portfolio during my free time.
+These are some projects which I have done during my free time.
 
 ## Countries App
 
