@@ -32,6 +32,12 @@ Demo - https://food-recipe-app-kappa.vercel.app/
 
 Code - https://github.com/Prathyusha1993/food-recipe-App
 
+## Quiz App
+
+Demo - https://quiz-app-5.herokuapp.com/
+
+Code - https://github.com/Prathyusha1993/simple-quiz-app
+
 ## Portfolio App
 
 Demo - https://portfolio-html-site.vercel.app/index.html
